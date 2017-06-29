@@ -1,8 +1,10 @@
 # ScanlessDotNet
 
-A c# port of scanless by @vesche in a library format that can be used in new or existing .NET projects. See the original here https://github.com/vesche/scanless. 
+A c# port of scanless by @vesche, a python script for port scanning using existing online services, you can see the original here https://github.com/vesche/scanless. 
 
-This .dll can be used to create a simple online API using [azure functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-csharp#referencing-custom-assemblies).
+The output of this project is in a library format that can be used in new or existing .NET projects. 
+
+This .dll can also be used to create a simple online port scanning API using [azure functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-csharp#referencing-custom-assemblies). 
 
 ## Usage
 
